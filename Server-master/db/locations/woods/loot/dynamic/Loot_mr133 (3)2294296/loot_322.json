@@ -1,0 +1,28 @@
+{
+	"Id": "Loot_mr133 (3)2294296",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -0.730285645,
+		"y": -0.8696995,
+		"z": -62.4561
+	},
+	"Rotation": {
+		"x": 7.95382,
+		"y": 215.755447,
+		"z": 345.2718
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b27786f7745c3c43ebfc",
+	"Items": [
+		{
+			"_id": "5e68b27786f7745c3c43ebfc",
+			"_tpl": "560d5e524bdc2d25448b4571",
+			"upd": {
+				"StackObjectsCount": 10
+			}
+		}
+	]
+}

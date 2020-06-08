@@ -1,0 +1,44 @@
+{
+	"Id": "LootFood[5] (48)16549938",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": -181.279053,
+		"y": -0.341,
+		"z": -77.565
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b29f86f7745c3804d70d",
+	"Items": [
+		{
+			"_id": "5e68b29f86f7745c3804d70d",
+			"_tpl": "55802d5f4bdc2dac148b458e"
+		},
+		{
+			"_id": "5e68b29f86f7745c3804d70e",
+			"_tpl": "59e6927d86f77411da468256",
+			"parentId": "5e68b29f86f7745c3804d70d",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 15
+			}
+		},
+		{
+			"_id": "5e68b29f86f7745c3804d70f",
+			"_tpl": "59e6927d86f77411da468256",
+			"parentId": "5e68b29f86f7745c3804d70d",
+			"slotId": "cartridges",
+			"location": 1,
+			"upd": {
+				"StackObjectsCount": 3
+			}
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"Id": "gun_aksu (2)8355368",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 39.6294861,
+		"y": 21.909811,
+		"z": 85.36195
+	},
+	"Rotation": {
+		"x": 293.6492,
+		"y": 176.494675,
+		"z": 69.66806
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b2bf86f7741caf48be21",
+	"Items": [
+		{
+			"_id": "5e68b2bf86f7741caf48be21",
+			"_tpl": "57dc2fa62459775949412633"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be22",
+			"_tpl": "57e3dba62459770f0c32322b",
+			"parentId": "5e68b2bf86f7741caf48be21",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be23",
+			"_tpl": "57dc347d245977596754e7a1",
+			"parentId": "5e68b2bf86f7741caf48be21",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be24",
+			"_tpl": "564ca99c4bdc2d16268b4589",
+			"parentId": "5e68b2bf86f7741caf48be21",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be25",
+			"_tpl": "56dfef82d2720bbd668b4567",
+			"parentId": "5e68b2bf86f7741caf48be24",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be26",
+			"_tpl": "57dc324a24597759501edc20",
+			"parentId": "5e68b2bf86f7741caf48be21",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be27",
+			"_tpl": "57dc334d245977597164366f",
+			"parentId": "5e68b2bf86f7741caf48be21",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be28",
+			"_tpl": "59d36a0086f7747e673f3946",
+			"parentId": "5e68b2bf86f7741caf48be21",
+			"slotId": "mod_gas_block"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be29",
+			"_tpl": "57dc32dc245977596d4ef3d3",
+			"parentId": "5e68b2bf86f7741caf48be28",
+			"slotId": "mod_handguard"
+		}
+	]
+}

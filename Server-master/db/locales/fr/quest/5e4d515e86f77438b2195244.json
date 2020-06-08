@@ -1,0 +1,17 @@
+{
+	"conditions": {
+		"5e4d515e86f77438b2195245": "Trouvez en raid 10 pièces de tissu polaire",
+		"5e4d515e86f77438b2195246": "Livrez 10 pièces de tissu polaire",
+		"5e4d515e86f77438b2195247": "Trouvez en raid 7 pièces de tissu Cordura",
+		"5e4d515e86f77438b2195248": "Livrez 7 pièces de tissu Cordura",
+		"5e4d515e86f77438b2195249": "Trouvez en raid 3 rouleaux de ruban adhésif KEKTAPE",
+		"5e4d515e86f77438b219524a": "Livrez 3 rouleaux de ruban adhésif KEKTAPE"
+	},
+	"name": "Textile - Partie 2",
+	"note": "",
+	"successMessageText": "5e4d533b86f774264f758340",
+	"failMessageText": "5e4d533b86f774264f758341",
+	"startedMessageText": "",
+	"description": "5e4d533b86f774264f758343",
+	"location": "any"
+}

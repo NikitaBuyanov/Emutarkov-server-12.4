@@ -1,0 +1,44 @@
+{
+	"Id": "LootTools[2] (73)16548754",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": -325.551025,
+		"y": 3.002,
+		"z": -77.7749939
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b2b386f7746649428ded",
+	"Items": [
+		{
+			"_id": "5e68b2b386f7746649428ded",
+			"_tpl": "57372c21245977670937c6c2"
+		},
+		{
+			"_id": "5e68b2b386f7746649428dee",
+			"_tpl": "56dff061d2720bb5668b4567",
+			"parentId": "5e68b2b386f7746649428ded",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "5e68b2b386f7746649428def",
+			"_tpl": "56dff061d2720bb5668b4567",
+			"parentId": "5e68b2b386f7746649428ded",
+			"slotId": "cartridges",
+			"location": 1,
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		}
+	]
+}

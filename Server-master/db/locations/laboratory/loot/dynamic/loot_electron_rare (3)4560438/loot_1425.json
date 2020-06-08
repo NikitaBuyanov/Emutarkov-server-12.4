@@ -1,0 +1,25 @@
+{
+	"Id": "loot_electron_rare (3)4560438",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -185.746,
+		"y": 0.947,
+		"z": -365.763
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b2d886f7745c3b243b56",
+	"Items": [
+		{
+			"_id": "5e68b2d886f7745c3b243b56",
+			"_tpl": "5d1b313086f77425227d1678"
+		}
+	]
+}

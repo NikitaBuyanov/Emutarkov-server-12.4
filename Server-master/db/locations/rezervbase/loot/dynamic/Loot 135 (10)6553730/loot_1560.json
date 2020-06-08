@@ -1,0 +1,39 @@
+{
+	"Id": "Loot 135 (10)6553730",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 191.0122,
+		"y": -5.863,
+		"z": -225.847687
+	},
+	"Rotation": {
+		"x": 0.00000170754731,
+		"y": 134.652985,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b2f186f7745c3b243f44",
+	"Items": [
+		{
+			"_id": "5e68b2f186f7745c3b243f44",
+			"_tpl": "59fb023c86f7746d0d4b423c"
+		},
+		{
+			"_id": "5e68b2f186f7745c3b243f45",
+			"_tpl": "59e4d3d286f774176a36250a",
+			"parentId": "5e68b2f186f7745c3b243f44",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 3
+			}
+		}
+	]
+}

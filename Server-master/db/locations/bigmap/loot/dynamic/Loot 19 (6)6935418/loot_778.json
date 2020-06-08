@@ -1,0 +1,25 @@
+{
+	"Id": "Loot 19 (6)6935418",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 318.823,
+		"y": 2.388,
+		"z": -183.254
+	},
+	"Rotation": {
+		"x": -4.26886828e-7,
+		"y": 37.8216743,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b29386f7745c395be366",
+	"Items": [
+		{
+			"_id": "5e68b29386f7745c395be366",
+			"_tpl": "57c44f4f2459772d2c627113"
+		}
+	]
+}

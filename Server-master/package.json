@@ -1,0 +1,36 @@
+﻿{
+  "name": "emutarkov-server",
+  "description": "Escape From Tarkov server emulator",
+  "version": "1.0.0",
+  "main": "scripts/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justemutarkov/EmuTarkov-Server.git"
+  },
+  "keywords": [
+    "emutarkov",
+    "emutarkov-server",
+    "emulator",
+    "server-emulator",
+    "server"
+  ],
+  "author": "EmuTarkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justemutarkov/EmuTarkov-Server/issues"
+  },
+  "scripts": {
+    "test": "mocha dev/src/test.js --exit"
+  },
+  "homepage": "https://justemutarkov.github.io",
+  "dependencies": {
+    "adler32": "^0.1.7",
+    "nexe": "^3.3.2",
+    "selfsigned": "^1.10.7",
+    "upx": "^1.0.6"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  }
+}

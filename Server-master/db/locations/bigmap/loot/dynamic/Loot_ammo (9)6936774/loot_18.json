@@ -1,0 +1,28 @@
+{
+	"Id": "Loot_ammo (9)6936774",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 496.107,
+		"y": 16.728,
+		"z": 89.746
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b29686f77466494289ed",
+	"Items": [
+		{
+			"_id": "5e68b29686f77466494289ed",
+			"_tpl": "59e4d3d286f774176a36250a",
+			"upd": {
+				"StackObjectsCount": 12
+			}
+		}
+	]
+}

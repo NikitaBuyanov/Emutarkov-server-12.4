@@ -1,0 +1,25 @@
+{
+	"Id": "mil_reciv (73)4563126",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -163.149,
+		"y": 3.81,
+		"z": -314.871
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b2db86f7745c3a09070c",
+	"Items": [
+		{
+			"_id": "5e68b2db86f7745c3a09070c",
+			"_tpl": "5c052fb986f7746b2101e909"
+		}
+	]
+}

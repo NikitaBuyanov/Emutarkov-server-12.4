@@ -1,0 +1,104 @@
+{
+	"Id": "gun_preset_ak74_un8367358",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -23.5116272,
+		"y": 28.6028118,
+		"z": -38.3693047
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b2bf86f7741caf48be37",
+	"Items": [
+		{
+			"_id": "5e68b2bf86f7741caf48be37",
+			"_tpl": "5ac4cd105acfc40016339859",
+			"upd": {
+				"Foldable": {
+					"Folded": false
+				}
+			}
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be38",
+			"_tpl": "59c6633186f7740cf0493bb9",
+			"parentId": "5e68b2bf86f7741caf48be37",
+			"slotId": "mod_gas_block"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be39",
+			"_tpl": "5648b4534bdc2d3d1c8b4580",
+			"parentId": "5e68b2bf86f7741caf48be38",
+			"slotId": "mod_handguard"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be3a",
+			"_tpl": "56def37dd2720bec348b456a",
+			"parentId": "5e68b2bf86f7741caf48be39",
+			"slotId": "mod_tactical_002"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be3b",
+			"_tpl": "5649ab884bdc2ded0b8b457f",
+			"parentId": "5e68b2bf86f7741caf48be37",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be3c",
+			"_tpl": "5649ae4a4bdc2d1b2b8b4588",
+			"parentId": "5e68b2bf86f7741caf48be37",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be3d",
+			"_tpl": "5649af884bdc2d1b2b8b4589",
+			"parentId": "5e68b2bf86f7741caf48be37",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be3e",
+			"_tpl": "570fd79bd2720bc7458b4583",
+			"parentId": "5e68b2bf86f7741caf48be3d",
+			"slotId": "mod_scope"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be3f",
+			"_tpl": "5ac50c185acfc400163398d4",
+			"parentId": "5e68b2bf86f7741caf48be37",
+			"slotId": "mod_stock",
+			"upd": {
+				"Foldable": {
+					"Folded": false
+				}
+			}
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be40",
+			"_tpl": "55d480c04bdc2d1d4e8b456a",
+			"parentId": "5e68b2bf86f7741caf48be37",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be41",
+			"_tpl": "56dff061d2720bb5668b4567",
+			"parentId": "5e68b2bf86f7741caf48be40",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "5e68b2bf86f7741caf48be42",
+			"_tpl": "5648ac824bdc2ded0b8b457d",
+			"parentId": "5e68b2bf86f7741caf48be37",
+			"slotId": "mod_charge"
+		}
+	]
+}

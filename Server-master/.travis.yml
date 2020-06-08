@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+    - "node_modules"
+before_script:
+  - node ./dev/src/setup-ci.js
+  - npm i pm2 -g
+  - pm2 start core/main.js
+  - sleep 15
+script:
+  - npm run test
+after_script:
+  - pm2 stop all
+  - pm2 kill

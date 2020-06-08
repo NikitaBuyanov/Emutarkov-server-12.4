@@ -1,0 +1,46 @@
+{
+	"Id": "lootpoint (102)1685440",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 27.655,
+		"y": 9.405,
+		"z": 37.498
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b28686f7745c3804d5a1",
+	"Items": [
+		{
+			"_id": "5e68b28686f7745c3804d5a1",
+			"_tpl": "57f4c844245977379d5c14d1"
+		},
+		{
+			"_id": "5e68b28686f7745c3804d5a2",
+			"_tpl": "57d152ec245977144076ccdf",
+			"parentId": "5e68b28686f7745c3804d5a1",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5e68b28686f7745c3804d5a3",
+			"_tpl": "57d1519e24597714373db79d",
+			"parentId": "5e68b28686f7745c3804d5a1",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5e68b28686f7745c3804d5a4",
+			"_tpl": "573719762459775a626ccbc1",
+			"parentId": "5e68b28686f7745c3804d5a3",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 12
+			}
+		}
+	]
+}

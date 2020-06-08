@@ -1,0 +1,25 @@
+{
+	"Id": "controller1_forest_crate16547386",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -753.850952,
+		"y": -44.348,
+		"z": 180.932
+	},
+	"Rotation": {
+		"x": 7.603465,
+		"y": 29.75233,
+		"z": 76.96652
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5e68b2b386f7746649428cf4",
+	"Items": [
+		{
+			"_id": "5e68b2b386f7746649428cf4",
+			"_tpl": "5b4c72b386f7745b453af9c0"
+		}
+	]
+}

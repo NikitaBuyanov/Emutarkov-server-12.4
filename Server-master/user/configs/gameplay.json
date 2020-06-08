@@ -1,0 +1,48 @@
+{
+    "autosave": {
+        "saveOnReceive": true,
+        "saveOnExit": false,
+        "saveIntervalSec": 0
+    },
+    "inraid": {
+        "saveLootEnabled": true,
+        "saveHealthEnabled": true,
+        "saveHealthMultiplier": 0.1
+    },
+    "bots": {
+        "pmcEnabled": true,
+        "pmcSpawnChance": 15,
+        "pmcUsecChance": 50
+    },
+    "trading": {
+        "ragfairMultiplier": 1,
+        "repairMultiplier": 1,
+        "insureMultiplier": 0.1,
+        "insureReturnChance": 75,
+        "fenceAssortSize": 300,
+        "buyItemsMarkedFound": false
+    },
+    "location": {
+        "realTimeEnabled": true,
+        "forceWeatherEnabled": false,
+        "forceWeatherId": 0
+    },
+    "locationloot": {
+        "bigmap": 320,
+        "develop": 25,
+        "factory4_day": 60,
+        "factory4_night": 55,
+        "interchange": 950,
+        "laboratory": 520,
+        "rezervbase": 1100,
+        "shoreline": 635,
+        "woods": 135,
+        "hideout": 0,
+        "lighthouse": 0,
+        "privatearea": 0,
+        "suburbs": 0,
+        "tarkovstreets": 0,
+        "terminal": 0,
+        "town": 0
+    }
+}
